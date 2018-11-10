@@ -9,7 +9,7 @@ import socket
 import time
 import threading
 
-cloud_ip = '104.224.166.34'
+cloud_ip = '104.293.100.134'
 cloud_port = 29999
 services = {'22':22,}
 base_port = 40000
